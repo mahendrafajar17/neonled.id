@@ -1,0 +1,7 @@
+Admin :
+E-mail : admin123@gmail.com
+Pass : admin123
+
+User :
+E-mail : redyhermawan@gmail.com
+Pass : redyhermawan
